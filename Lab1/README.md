@@ -1,6 +1,6 @@
-#Lab1's Assignment - Notes
+# Lab1's Assignment - Notes
 
-##Compulsory
+## Compulsory
 Write a Java application that implements the following operations:
 
 1. Display on the screen the message "Hello World!". Run the application. If it works, go to step 2 :)
